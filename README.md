@@ -1,5 +1,3 @@
-# eda-mercado-inmobiliario
-Análisis exploratorio del mercado inmobiliario con modelos predictivos de precio | Python · Pandas · Scikit-learn · Seaborn |
 # 📊 KPI Operations Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

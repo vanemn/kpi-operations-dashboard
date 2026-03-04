@@ -10,7 +10,7 @@
 
 ## 📸 Vista del Dashboard
 
-![Dashboard KPI](outputs/dashboard_kpi.png)
+![Dashboard KPI](dashboard_kpi.png)
 
 ---
 

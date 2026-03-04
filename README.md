@@ -8,11 +8,6 @@
 
 ---
 
-## 📸 Vista del Dashboard
-
-![Dashboard KPI](dashboard_kpi.png)
-
----
 
 ## 🎯 ¿Qué hace este proyecto?
 

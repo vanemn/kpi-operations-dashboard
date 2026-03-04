@@ -18,6 +18,9 @@ Construye un sistema de monitorización de proyectos con 4 capas de análisis:
 - **Margen operativo mensual** — alertas automáticas cuando no se alcanza el objetivo
 - **Análisis por proyecto** — avance real vs planificado + Burn Rate vs progreso (con satisfacción del cliente)
 
+## 📸 Vista del Dashboard
+
+![Dashboard KPI](descarga.png)
 ---
 
 ## 💡 Indicadores Monitorizados
